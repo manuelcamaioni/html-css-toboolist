@@ -10,8 +10,19 @@ body{
 }
 
 header section{
-    height: 100px;
+    /* height: 100px; */
     background-color: white;
+}
+
+section #logo{
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+}
+
+section #title{
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .main-page{
