@@ -88,3 +88,22 @@ header section{
 .pink{
     background-color: rgb(232, 116, 136);
 }
+
+.checkbox{
+    color: green;
+    border: 1px solid green;
+   
+}
+
+.cross{
+    color: red;
+    border: 1px solid red;
+}
+
+.cross, .checkbox{
+    font-size: 0.8em;
+    border-radius: 50%;
+    display: inline-block;
+    width: 18px;
+    text-align: center;
+}
