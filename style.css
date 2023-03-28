@@ -4,3 +4,12 @@
     box-sizing: border-box;
     /* RESET */
 }
+
+body{
+    background-color: gray;
+}
+
+header section{
+    height: 100px;
+    background-color: white;
+}
