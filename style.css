@@ -30,7 +30,7 @@ section #title{
 
 .main-page{
     width: 600px;
-    height: 1000px;
+    /* height: 1000px; */
     margin: 5% auto;
     background-color: white;
     border-radius: 5px;
