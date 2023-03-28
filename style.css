@@ -61,3 +61,30 @@ header section{
     padding: 7px 0 7px 12px;
     /* prendo tutti gli elementi dei blocchi che compongono la main-list */
 }
+
+.label-size{
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: 0.8em;
+}
+
+.blue{
+    background-color: rgb(11, 102, 238);
+}
+
+.purple{
+    background-color: rgb(135, 57, 207);
+}
+
+.green{
+    background-color: rgb(44, 205, 89);
+}
+
+.yellow{
+    background-color: rgb(162, 216, 54);
+}
+
+.pink{
+    background-color: rgb(232, 116, 136);
+}
