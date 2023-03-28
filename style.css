@@ -27,6 +27,7 @@ header section{
     line-height: 70px;
     width: 100%;
     border-bottom: 1px solid gray;
+    padding: 0 50px;
 }
 
 #bluebutton{
@@ -47,5 +48,16 @@ header section{
     padding: 10px;
 }
 
+.main-list{
+    padding: 30px 50px;
+}
 
+.task, .date, .upcoming{
+    width: 100%;
+    padding: 15px 0;;
+}
 
+.task h2, p .date h2, p .upcoming h2, p{
+    padding: 7px 0 7px 12px;
+    /* prendo tutti gli elementi dei blocchi che compongono la main-list */
+}
