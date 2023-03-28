@@ -13,3 +13,10 @@ header section{
     height: 100px;
     background-color: white;
 }
+
+.main-page{
+    width: 500px;
+    height: 1000px;
+    margin: 5% auto;
+    border: 1px solid black;
+}
