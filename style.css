@@ -15,8 +15,14 @@ header section{
 }
 
 .main-page{
-    width: 500px;
+    width: 600px;
     height: 1000px;
     margin: 5% auto;
-    border: 1px solid black;
+    background-color: white;
+}
+
+.top-bar{
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid gray;
 }
