@@ -74,11 +74,12 @@ section #title{
 
 .task h2, p .date h2, p .upcoming h2, p{
     padding: 11px 0 11px 25px;
+    vertical-align: middle;
         /* prendo tutti gli elementi dei blocchi che compongono la main-list */
 }
 
 .label-size{
-    padding: 5px;
+    padding: 5px 9px;
     border-radius: 10px;
     color: white;
     font-size: 0.8em;
